@@ -13,8 +13,20 @@
 
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<header>
+<img src="/img/favicon-32x32.png">
+<h1>The Personal Kanban App</h1>
+</header> 
+
+<section>
+    <p>PersonalKanban is an iOS app which adapts the Kanban Method to your personal workflows. I designed this app as a personal development project to teach myself some iOS coding skills, and I hope you enjoy using it as much as I enjoyed making it. The app is currently on its first release, and I plan on releasing a some new features soon. For a list of upcoming features, please refer to the github README (link below).</p>
+    <p>A few important details:</p>
+    <p>PersonalKanban does not collect any data remotely, and does not store any data on your device besides the info you input and save yourself. You may click <a href="PrivacyPolicy.php">here</a> to view the privacy policy.</p>
+    <p>You can view additional info including the source code on the public github repo <a href="https://github.com/huntercbuxton/PersonalKanbanApp">here</a>.</p>
+    <p>For additional support or input you can contact the developer (me) at <a href = "mailto: huntercbuxton@icloud.com">huntercbuxton@icloud.com</a>.  I typically respond within 1-2 business days.</p>
+    <p>Thanks! I hope you enjoy this app.</p>
+    <p>-Hunter Buxton</p>
+</section>
 
 </body>
 </html>
