@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>HTML Tutorial</title>
+<title>Personal Kanban App</title>
 
 <link rel="stylesheet" href="styles.css">
 <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
@@ -23,7 +23,7 @@
 
 <section>
     <h2>A few important details:</h2>
-    
+
     <p>PersonalKanban does not collect any data remotely, and does not store any data on your device besides the info you input and save yourself. You may click <a href="PrivacyPolicy.php">here</a> to view the privacy policy.</p>
     <p>You can view additional info including the source code on the public github repo <a href="https://github.com/huntercbuxton/PersonalKanbanApp">here</a>.</p>
     <p>For additional support or input you can contact the developer (me) at <a href = "mailto: huntercbuxton@icloud.com">huntercbuxton@icloud.com</a>.  I typically respond within 1-2 business days.</p>
