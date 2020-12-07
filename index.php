@@ -13,7 +13,7 @@
 <body>
 
 <header>
-<img src="/img/favicon-32x32.png">
+<img src="/img/apple-touch-icon.png">
 <h1>The Personal Kanban App</h1>
 </header> 
 
