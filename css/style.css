@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	/* color: #5D607E; */
+	/* font-family: -apple-system, BlinkMacSystemFont, sans-serif; */
+	font-family: 'Antic Slab', serif;
+}
+
+#spacer {
+    position: absolute;
+    width: 100vw;
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: 50px auto 150px;
+    flex-direction: column;
+}
+
+#spacer > header {
+	background-color: #DEECEB;
+	padding: 20px;
+	height: 70px;
+	display: flex;
+	align-items: center;
+}
+
+header img {
+	height: 50px;
+}
+
+section {
+	padding: 20px 0;
+}
+
+p, h1, h2 {
+	padding: 20px;
+}
+
+#spacer > footer {
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+    line-height: 150px;
+	background-color: #DEECEB;
+    text-align: center;
+    font-size: small;
+}
