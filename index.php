@@ -24,12 +24,12 @@
 <div id='spacer'>
 <header>
 <img src="/img/apple-touch-icon.png">
-<h1>The Personal Kanban App</h1>
+<h1>PersonalKanban</h1>
 </header> 
 
 <main>
 <section>
-    <p>PersonalKanban is an iOS app which adapts the Kanban Method to your personal workflows. I designed this app as a personal development project to teach myself some iOS coding skills, and I hope you enjoy using it as much as I enjoyed making it. The latest release of this app is version 2.1; I plan on releasing a some new features soon in version 2.2. You can find a list of upcoming features in the <a href='https://github.com/huntercbuxton/PersonalKanbanApp/blob/main/README.md'>README.md</a> on GitHub.</p>
+    <p>PersonalKanban is an app for iOS which adapts the Kanban Method to your personal workflows. I designed this app as a personal development project to teach myself some iOS coding skills, and I hope you enjoy using it as much as I enjoyed making it. The latest release of this app is version 2.1; I plan on releasing a some new features soon in version 2.2. You can find a list of upcoming features in the <a href='https://github.com/huntercbuxton/PersonalKanbanApp/blob/main/README.md'>README.md</a> on GitHub.</p>
 </section>
 
 <section>
