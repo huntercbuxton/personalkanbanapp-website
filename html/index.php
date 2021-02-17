@@ -37,7 +37,7 @@
 
     <p>PersonalKanban does not collect any data remotely, and does not store any data on your device besides the info you input and save yourself. You may click <a href="/PrivacyPolicy.php">here</a> to view the privacy policy.</p>
     <p>You can view additional info including the source code on the public github repo <a href="https://github.com/huntercbuxton/PersonalKanbanApp">here</a>.</p>
-    <p>For additional support or input you can contact the developer (me) at <a href = "mailto: huntercbuxton@icloud.com">huntercbuxton@icloud.com</a>.  I typically respond within 1-2 business days. You can also find info on my other projects on my personal website, <a href='http://hunterbuxton.com'>hunterbuxton.com</a></p>
+    <p>For additional support or input you can contact the developer (me) at <a href = "mailto: huntercbuxton@icloud.com">huntercbuxton@icloud.com</a>.  I typically respond within 1-2 business days. You can also find info on my other projects on my personal website, <a href='http://huntercbuxton.com'>huntercbuxton.com</a></p>
     <p>Thanks! I hope you enjoy this app.</p>
     <p> &nbsp; &nbsp; &nbsp; -Hunter Buxton</p>
 </section>
